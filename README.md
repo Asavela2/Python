@@ -4,6 +4,10 @@ Python is a programming language that lets you work quickly and integrate system
 its syntax allows programmers to express their concepts in fewer lines of code. 
 
 ## Comments 
+andisiwe
+asavela
+abongile
+nkulee
 
 Comments in Python are used to provide explanations or annotations within your code. 
 They are not executed by the Python interpreter and are meant to be human-readable.
