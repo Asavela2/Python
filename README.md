@@ -30,7 +30,7 @@ def my_function():
     """
     This is also a docstring.
     It provides documentation for the function.
-     """"
+     """
     pass
 ```
 # Introduction to Variables
