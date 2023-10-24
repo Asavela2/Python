@@ -17,7 +17,7 @@ This is a single-line comment
  
 ```
  
-##Multi-Line Comments or Docstrings: Multi-line comments are typically used for longer explanations and documentation. 
+## Multi-Line Comments or Docstrings: Multi-line comments are typically used for longer explanations and documentation. 
 In Python, these are often represented as docstrings (used for documentation of functions, classes, and modules).
 A docstring is enclosed in triple quotes (''' or """) and can span multiple lines
 
@@ -29,10 +29,9 @@ def my_function():
     
     This is also a docstring.
     It provides documentation for the function.
-     ```
+     
     pass
-
-
+```
 # Introduction to Variables
 
 Variables are simple containers for storing data values and Python has no commands for declaring a variable. 
@@ -75,13 +74,15 @@ For example, you can perform operations like addition, subtraction, and concaten
 
 5. ## Variable Scope: 
 
-Variables have a scope, which defines where in the code they are accessible. Variables can be local (only accessible in a specific function or block) or global (accessible throughout the entire program). 
+Variables have a scope, which defines where in the code they are accessible.
+Variables can be local (only accessible in a specific function or block) or global (accessible throughout the entire program). 
 
 6. ## Reassignment: 
 
 You can change the value of a variable by assigning it a new value. This is called reassignment. 
 
 For example, you can do x = 20 to change the value of "x" to 20. 
+
 
  
 
