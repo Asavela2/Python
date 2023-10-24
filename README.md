@@ -83,6 +83,24 @@ You can change the value of a variable by assigning it a new value. This is call
 
 For example, you can do x = 20 to change the value of "x" to 20. 
 
+Example of a code :
+```
+# Variable assignment
+x = 10
+y = "Hello, World"
+
+# Variable usage
+result = x + 5
+greeting = y + " Welcome!"
+
+# Variable reassignment
+x = 20
+
+# Displaying values
+print("Result:", result)
+print("Greeting:", greeting)
+print("Updated x:", x)
+```
 
  
 
