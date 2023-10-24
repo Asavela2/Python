@@ -21,7 +21,7 @@ This is a single-line comment
 In Python, these are often represented as docstrings (used for documentation of functions, classes, and modules).
 A docstring is enclosed in triple quotes (''' or """) and can span multiple lines
 
-'''
+````'''
 This is a multi-line comment or a docstring.
 It can span multiple lines and is often used for documenting functions, classes, or modules.
 '''
@@ -29,5 +29,5 @@ def my_function():
     """
     This is also a docstring.
     It provides documentation for the function.
-    """
+    """ ```
     pass
