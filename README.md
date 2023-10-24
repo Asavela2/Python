@@ -17,7 +17,8 @@ This is a single-line comment
  
 ```
  
-## Multi-Line Comments or Docstrings: Multi-line comments are typically used for longer explanations and documentation. 
+## Multi-Line Comments or Docstrings: 
+Multi-line comments are typically used for longer explanations and documentation.
 In Python, these are often represented as docstrings (used for documentation of functions, classes, and modules).
 A docstring is enclosed in triple quotes (''' or """) and can span multiple lines
 
