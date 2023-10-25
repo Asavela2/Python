@@ -104,12 +104,12 @@ print("Updated x:", x)
 ```
 
 
-#Introduction to Data Types
+# Introduction to Data Types
 
 Data types in computer programming refer to the classification or categorization of data based on its type or value. 
 Different data types are used to represent various kinds of information, such as numbers, text, and more, in a format that the computer can understand and manipulate. 
 
- ##Common data type
+ ## Common data type
 
  Integer (int): This data type is used to represent whole numbers, both positive and negative, without any decimal points. Examples include -1, 0, 42.
 
@@ -120,7 +120,7 @@ String (str): Strings are used to represent sequences of characters, such as tex
 Boolean (bool): Boolean data types have only two possible values: True and False. They are often used for logical operations and conditional statements.
 
 List: Lists are used to store ordered collections of items. Elements in a list can have different data types.
-For example, [1, 2, 3] is a list of integers.
+For example, [1,2,3] is a list of integers.
 
 Tuple: Tuples are similar to lists but are immutable, meaning their elements cannot be changed once they are defined.
 They are often used to group related values. An example is (1, 'apple', 3.14).
