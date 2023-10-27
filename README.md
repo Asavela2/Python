@@ -146,11 +146,11 @@ These allow you to encapsulate data and functionality into user-defined structur
 + + (Addition): Adds two numbers.
   
 
--  - (Subtraction): Subtracts the right operand from the left operand.
+-  (Subtraction) -: Subtracts the right operand from the left operand.
   
-* (Multiplication): Multiplies two numbers.
-* 
-/ (Division): Divides the left operand by the right operand, yielding a floating-point result.
+- (Multiplication) * : Multiplies two numbers.
+ 
+- (Division): / Divides the left operand by the right operand, yielding a floating-point result.
 
 // (Floor Division): Divides the left operand by the right operand and truncates the decimal part to the nearest integer.
 
