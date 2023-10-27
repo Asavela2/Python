@@ -136,6 +136,65 @@ Custom Data Types (Objects, Classes): In many programming languages, you can def
 These allow you to encapsulate data and functionality into user-defined structures.
 
 
+# Operators 
+ Operators are symbols or special keywords used to perform operations on variables and values. 
+ Python provides a variety of operators, which can be categorized into the following groups:
+
+
+ ## Arithmetic Operators:
+
++ (Addition): Adds two numbers.
+- (Subtraction): Subtracts the right operand from the left operand.
+* (Multiplication): Multiplies two numbers.
+/ (Division): Divides the left operand by the right operand, yielding a floating-point result.
+// (Floor Division): Divides the left operand by the right operand and truncates the decimal part to the nearest integer.
+% (Modulus): Returns the remainder of the division.
+** (Exponentiation): Raises the left operand to the power of the right operand.
+  
+## Comparison Operators:
+
+== (Equal): Checks if two values are equal.
+!= (Not Equal): Checks if two values are not equal.
+< (Less Than): Checks if the left operand is less than the right operand.
+> (Greater Than): Checks if the left operand is greater than the right operand.
+<= (Less Than or Equal To): Checks if the left operand is less than or equal to the right operand.
+>= (Greater Than or Equal To): Checks if the left operand is greater than or equal to the right operand.
+
+## Logical Operators:
+
+and (Logical AND): Returns True if both operands are True.
+or (Logical OR): Returns True if at least one of the operands is True.
+not (Logical NOT): Inverts the logical value of the operand.
+
+## Assignment Operators:
+
+= (Assignment): Assigns a value to a variable.
++= (Addition Assignment): Adds the right operand to the left operand and assigns the result to the left operand.
+-= (Subtraction Assignment): Subtracts the right operand from the left operand and assigns the result to the left operand.
+*= (Multiplication Assignment): Multiplies the left operand by the right operand and assigns the result to the left operand.
+/= (Division Assignment): Divides the left operand by the right operand and assigns the result to the left operand.
+//= (Floor Division Assignment): Performs floor division and assigns the result to the left operand.
+%= (Modulus Assignment): Calculates the modulus and assigns the result to the left operand.
+**= (Exponentiation Assignment): Raises the left operand to the power of the right operand and assigns the result to the left operand.
+
+## Membership Operators:
+
+in: Returns True if a value is found in a sequence (e.g., a list, tuple, or string).
+not in: Returns True if a value is not found in a sequence.
+Identity Operators:
+
+is: Returns True if two variables reference the same object.
+is not: Returns True if two variables reference different objects.
+Bitwise Operators (for working with binary representations):
+
+& (Bitwise AND)
+| (Bitwise OR)
+^ (Bitwise XOR)
+~ (Bitwise NOT)
+<< (Left Shift)
+>> (Right Shift)
+
+
 
 
 
