@@ -154,16 +154,23 @@ These allow you to encapsulate data and functionality into user-defined structur
 ## Comparison Operators:
 
 == (Equal): Checks if two values are equal.
+
 != (Not Equal): Checks if two values are not equal.
+
 < (Less Than): Checks if the left operand is less than the right operand.
+
 > (Greater Than): Checks if the left operand is greater than the right operand.
+> 
 <= (Less Than or Equal To): Checks if the left operand is less than or equal to the right operand.
+
 >= (Greater Than or Equal To): Checks if the left operand is greater than or equal to the right operand.
 
 ## Logical Operators:
 
 and (Logical AND): Returns True if both operands are True.
+
 or (Logical OR): Returns True if at least one of the operands is True.
+
 not (Logical NOT): Inverts the logical value of the operand.
 
 ## Assignment Operators:
