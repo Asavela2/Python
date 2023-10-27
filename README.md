@@ -143,10 +143,11 @@ These allow you to encapsulate data and functionality into user-defined structur
 
  ## Arithmetic Operators:
 
-+ (Addition): Adds two numbers.
-+ 
-- (Subtraction): Subtracts the right operand from the left operand.
-- 
++ + (Addition): Adds two numbers.
+  
+
+-  - (Subtraction): Subtracts the right operand from the left operand.
+  
 * (Multiplication): Multiplies two numbers.
 * 
 / (Division): Divides the left operand by the right operand, yielding a floating-point result.
